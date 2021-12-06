@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\BeanfunAccountCreator.exe.config
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\BeanfunAccountCreator.exe
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\BeanfunAccountCreator.pdb
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.FormMain.resources
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.exe
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.pdb
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\obj\Debug\BeanfunAccountCreator.FormAccount.resources
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\BeanfunAccountCreator\BeanfunAccountCreator\bin\Debug\Newtonsoft.Json.xml
